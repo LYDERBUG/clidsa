@@ -11,8 +11,8 @@ To download the repository to your computer, follow these steps:
 
 To clone the repository using Git, follow these steps:
 
-1. Open a terminal or command prompt.
-2. Navigate to the directory where you want to clone the repository.
+1. Open a terminal.
+2. Go to the directory where you want to clone the repository.
 3. Run the following command:
 ```
 git clone https://github.com/LYDERBUG/clidsa.git

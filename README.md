@@ -1,4 +1,4 @@
-# CLIdsa (CLI Daily Self-Assessment) DISCONTINUED, BE BACK LATER
+# CLIdsa (CLI Daily Self-Assessment)
 ## Downloading the Repository
 
 To download the repository to your computer, follow these steps:
